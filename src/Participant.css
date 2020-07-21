@@ -1,0 +1,16 @@
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+  }
+  
+  .item-avatar img{
+  width: 50%;
+  }
+  
+  .item-name{
+    flex: 2;
+  }
+
+  
